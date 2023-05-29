@@ -1,4 +1,4 @@
-<a href="[https://www.linkedin.com/in/pratik-kumar04](https://www.linkedin.com/in/anrutha-kamalanathan/)" target="_blank" rel="nofollow"><img align="right" alt="Anrutha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="[https://www.linkedin.com/in/varun-sampath-kumar/]" target="_blank" rel="nofollow"><img align="right" alt="Varun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi 👋 I am Varun S! 
 I am currently a 3<sup>rd</sup> Year MSc Data Science Student at PSG College Of Technology. 
